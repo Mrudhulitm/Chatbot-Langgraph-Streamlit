@@ -2,6 +2,11 @@ langchain
 langsmith
 streamlit
 langgraph
-google-generative-ai
-python-dotenv
+langchain_google_genai
+dotenv
 sqlite3
+langchain_core
+typing
+uuid
+os
+urllib
