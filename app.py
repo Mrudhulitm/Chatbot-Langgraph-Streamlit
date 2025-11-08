@@ -12,11 +12,11 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 # --- 1. Page Configuration ---
 st.set_page_config(
-    page_title="My Chatbot (with MemorySaver)",
+    page_title="My Chatbot",
     page_icon="🤖",
     layout="wide"
 )
-st.title("🤖 My Chatbot (with MemorySaver)")
+st.title("🤖 My Chatbot")
 
 # --- 2. Load Environment Variables ---
 # Make sure you have a .env file in this directory
